@@ -45,5 +45,7 @@ Before starting, we need to get our victim's IP to do this type of attack
 
 
 13. **Finally, execute the command below to start listening to possible reverse  shell connections.**
-	`exploit`
+	```
+	exploit
+ 	```
 
