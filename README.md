@@ -2,7 +2,7 @@
 
 Write-up of how to do a reverse shell attack to any type of device, but Apple devices.
 
-**¡¡DISCLAIMER:** <br />
+**¡¡DISCLAIMER:** <br /><br />
 		**I'm doing this only for educational purposes.**<br />
 		**I'm not responsible of any illegal uses.**<br />
 		**The bad use of this Write-up may cause damage to the victim!!**<br />
