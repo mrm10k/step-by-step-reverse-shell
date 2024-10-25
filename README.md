@@ -2,10 +2,10 @@
 
 Write-up of how to do a reverse shell attack to any type of device, but Apple devices.
 
-**¡¡DISCLAIMER:** 
-		**I'm doing this only for educational purposes.**
-		**I'm not responsible of any illegal uses.**
-		**The bad use of this Write-up may cause damage to the victim!!**
+**¡¡DISCLAIMER:** <br />
+		**I'm doing this only for educational purposes.**<br />
+		**I'm not responsible of any illegal uses.**<br />
+		**The bad use of this Write-up may cause damage to the victim!!**<br />
 
 Before starting, we need to get our victim's IP to do this type of attack
 1. **Check if the victim's IP is up.**
