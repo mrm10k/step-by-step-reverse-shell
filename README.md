@@ -1,13 +1,13 @@
 # How to do a reverse shell attack
 
 Write-up of how to do a reverse shell attack to any type of device, but Apple devices.
-
+## 
 **¡¡DISCLAIMER:** <br /><br />
 		**I'm doing this for educational purposes only.**<br />
 		**I'm not responsible of any illegal or harmful uses of this file.**<br />
 		**The bad use of this Write-up may cause any type of damage to the victim!!**<br />
   		**Use this file responsibly, otherwise you can get in trouble**<br />
-
+## 
 Before starting, we need to get our victim's IP to do this type of attack
 1. **Check if the victim's IP is up.**
 	```
